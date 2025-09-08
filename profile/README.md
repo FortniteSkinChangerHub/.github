@@ -12,10 +12,9 @@
 
 ## 🎨 Resources
 
-- [![Discover Skins](https://img.shields.io/badge/Discover_Skins-NOW-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/FortniteSkinChangerHub/.github)
-- [![Join Community](https://img.shields.io/badge/Join_Community-NOW-00cc00?style=rounded&labelColor=1a1a1a)](https://github.com/FortniteSkinChangerHub/Fortnite2025-SkinSwapHub)
-
----
+<a href="https://github.com/FortniteSkinChangerHub/Fortnite2025-SkinSwapHub" target="_blank">
+  <img src="https://img.shields.io/badge/Start_Tutorial-NOW-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ## 🔍 Keywords
 
